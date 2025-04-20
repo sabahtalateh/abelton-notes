@@ -9,7 +9,7 @@
 <img src="./images/menu.png" />
 
 <details>
-  <summary>Особенно `View`</summary>
+  <summary>Особенно <code>View</code>`</summary>
   <img src="./images/view.png" width="400px"/>
 </details>
 Нажимаем на пункт меню и смотрим что меняется в интерфейсе
