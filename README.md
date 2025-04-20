@@ -6,8 +6,10 @@
 
 Полезно изучить системные выпадающие меню
 
+<img src="./images/menu.png" />
+
 <details>
   <summary>Особенно `View`</summary>
-  <img src="./images/view.png"/>
+  <img src="./images/view.png" width="400px"/>
 </details>
 
