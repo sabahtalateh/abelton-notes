@@ -23,6 +23,8 @@
 
 ![image](./images/daw.png)
 
+[Excalidraw](https://excalidraw.com/#json=fsvEAm0fHzIu6njjnLPPe,ndMv8SW_-iXxpKqx2Vg9UQ)
+
 ## [Интерфейс, плэйлист, браузер](https://youtu.be/cdcgVkYV0k4?si=cMZCAJBRxUy0doN7&t=664)
 
 Посмотрим что мы видим перед собой при первом запуске Abelton, разберём зачем тут столько всего
