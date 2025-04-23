@@ -15,7 +15,7 @@
 
 Нажимаем на пункт меню и смотрим что меняется в интерфейсе
 
-## [DAW (digital audio workstation)](https://www.youtube.com/watch?v=cdcgVkYV0k4&t=3191s)
+## [DAW (Digital Audio Workstation)](https://www.youtube.com/watch?v=cdcgVkYV0k4&t=3191s)
 
 Все **DAW** программы работают по одному принципу
 
