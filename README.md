@@ -23,10 +23,8 @@
 
 Посмотрим что мы видим перед собой при первом запуске Abelton, разберём зачем тут столько всего
 
-<details>
-  <summary>Картинка</summary>
-  <img src="./images/interface.png"/>
-</details>
+![interface](./images/interface.png)
+
 
 ## [MIDI дорожки](https://youtu.be/cdcgVkYV0k4?si=ovXWhRoDmKv3r-Yf&t=1912)
 
