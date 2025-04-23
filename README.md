@@ -8,10 +8,10 @@
 
 <img src="./images/menu.png" />
 
-<details>
-  <summary>Особенно <code>View</code></summary>
-  <img src="./images/view.png" width="400px"/>
-</details>
+Особенно меню `View`
+
+<img src="./images/view.png" width="400px"/>
+
 
 Нажимаем на пункт меню и смотрим что меняется в интерфейсе
 
@@ -74,10 +74,7 @@
 
 ## [Запись](https://youtu.be/cdcgVkYV0k4?si=XmU7o8RxYQChUEjI&t=6602)
 
-<details>
-  <summary>Картинка</summary>
-  <img src="./images/record.png""/>
-</details>
+![image](./images/record.png)
 
 За запись отвечает блок контроля входного сигнала `(1)`. Показать/скрыть его можно из меню `View -> In/Out`
 
@@ -101,6 +98,8 @@
 - Нажать кнопку записи в блоке `(5)`
 
 После чего звук начнёт записываться. Для завершения записи можно нажать кнопку `Record` или `Stop` в блоке `(5)`
+
+На дорожку с записанным звуком можно применять эффекты
 
 
 
