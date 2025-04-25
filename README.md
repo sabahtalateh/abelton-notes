@@ -127,9 +127,14 @@
 
 
 
-## [Коммутация Каналов](https://youtu.be/cdcgVkYV0k4?si=rRl9AsLsv5wZPd8F&t=7674)
+## [Коммутация каналов](https://youtu.be/cdcgVkYV0k4?si=rRl9AsLsv5wZPd8F&t=7674)
 
+У дорожек есть параметры коммутации
 
+- Откуда брать сигнал
+- Куда выводить сигнал
+
+![image](./images/chans.png)
 
 ## TODO
 
