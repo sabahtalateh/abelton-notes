@@ -23,8 +23,6 @@
 
 ![image](./images/daw.png)
 
-[Ссылка](https://excalidraw.com/#json=fsvEAm0fHzIu6njjnLPPe,ndMv8SW_-iXxpKqx2Vg9UQ)
-
 ## [Интерфейс, плэйлист, браузер](https://youtu.be/cdcgVkYV0k4?si=cMZCAJBRxUy0doN7&t=664)
 
 Посмотрим что мы видим перед собой при первом запуске **Ableton**, разберём зачем тут столько всего
@@ -139,6 +137,10 @@
 ## TODO
 
 Наделать скриншоты по каждомы пункту
+
+## Материалы
+
+- [Картинки](https://excalidraw.com/#json=TmBUA64T4uukpk_kYsL4O,g1bMITlU4yb7yc_LYcRuYA)
 
 
 
