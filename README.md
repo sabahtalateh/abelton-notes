@@ -206,6 +206,12 @@
 
 ![image](./images/com-out-rec.png)
 
+## [Инструменты](https://youtu.be/cdcgVkYV0k4?si=OoQ4xQGHTVNOZhRU&t=9370)
+
+### Темп
+
+![image](./images/tempo.png)
+
 ## TODO
 
 Переделать скиншоты через **Excalidraw**
