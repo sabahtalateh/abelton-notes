@@ -208,6 +208,8 @@
 
 ## [Инструменты](https://youtu.be/cdcgVkYV0k4?si=OoQ4xQGHTVNOZhRU&t=9370)
 
+Рассмотрим блок кнопок в верхней части программы
+
 ### Темп
 
 ![image](./images/tempo.png)
