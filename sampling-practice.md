@@ -6,7 +6,7 @@
 
 В качестве референса возьмём такую композицию
 
-[![Ущелье Койотов](https://img.youtube.com/vi/4ol6ugBVDgk/0.jpg)](https://www.youtube.com/watch?v=4ol6ugBVDgk "Ущелье Койотов")
+[![image](https://img.youtube.com/vi/4ol6ugBVDgk/0.jpg)](https://www.youtube.com/watch?v=4ol6ugBVDgk)
 
 
 
