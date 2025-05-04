@@ -6,5 +6,7 @@
 
 В качестве референса возьмём такую композицию
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4ol6ugBVDgk?si=nSGRePtWOfgn9JFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+
 
